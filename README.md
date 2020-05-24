@@ -2,8 +2,6 @@
 
 A simple websocket chat app that communicates with a websocket server!
 
-Server repo located [here](https://github.com/aPruner/elixir-websocket-server)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
